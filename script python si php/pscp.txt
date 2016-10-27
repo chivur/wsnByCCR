@@ -1,0 +1,1 @@
+pscp C:\Users\Razvan\Google Drive\Licenta Razvan\script python\i2c.py pi@192.168.2.111:/home/pi/Desktop/python-i2c_test
